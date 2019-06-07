@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@import url(assets/bower_components/bootstrap/dist/css/bootstrap.min.css);
+@import url(assets/bower_components/font-awesome/css/font-awesome.min.css);
+@import url(assets/bower_components/Ionicons/css/ionicons.min.css);
+@import url(assets/bower_components/Ionicons/css/ionicons.min.css);
+@import url(assets/dist/css/AdminLTE.min.css);
+@import url(assets/plugins/iCheck/square/blue.css);
+
+
+
+.main-sidebar { background-color: #000;}
+.sidebar-menu li>a {
+    position: relative;
+    color: #fff;
+}
+.main-header .navbar {
+    background-color: #0d67bc;}
